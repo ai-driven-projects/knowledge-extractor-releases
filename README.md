@@ -2,7 +2,7 @@
 
 Aplicativo desktop do Knowledge Extractor. Este repositório guarda só as versões publicadas: os instaladores, os pacotes de atualização e as notas de cada versão.
 
-**Última versão: [0.1.5](https://github.com/ai-driven-projects/knowledge-extractor-releases/releases/tag/v0.1.5)** (2026-11-04). Os links abaixo baixam sempre a versão mais recente.
+**Última versão: [0.1.6](https://github.com/ai-driven-projects/knowledge-extractor-releases/releases/tag/v0.1.6)** (2026-11-05). Os links abaixo baixam sempre a versão mais recente.
 
 ## Baixar
 
