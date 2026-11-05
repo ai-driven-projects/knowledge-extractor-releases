@@ -2,7 +2,7 @@
 
 Aplicativo desktop do Knowledge Extractor. Este repositório guarda só as versões publicadas: os instaladores, os pacotes de atualização e as notas de cada versão.
 
-**Última versão: [0.1.7](https://github.com/ai-driven-projects/knowledge-extractor-releases/releases/tag/v0.1.7)** (2026-11-05). Os links abaixo baixam sempre a versão mais recente.
+**Última versão: [0.1.8](https://github.com/ai-driven-projects/knowledge-extractor-releases/releases/tag/v0.1.8)** (2026-11-05). Os links abaixo baixam sempre a versão mais recente.
 
 ## Baixar
 
@@ -11,6 +11,7 @@ Aplicativo desktop do Knowledge Extractor. Este repositório guarda só as vers�
 | Seu computador | Instalador | Sem instalar |
 | --- | --- | --- |
 | Mac com Apple Silicon (M1, M2, M3, M4…) | [KnowledgeExtractor-osx-arm64-Setup.pkg](https://github.com/ai-driven-projects/knowledge-extractor-releases/releases/latest/download/KnowledgeExtractor-osx-arm64-Setup.pkg) | [KnowledgeExtractor-osx-arm64-Portable.zip](https://github.com/ai-driven-projects/knowledge-extractor-releases/releases/latest/download/KnowledgeExtractor-osx-arm64-Portable.zip) |
+| Mac com processador Intel | [KnowledgeExtractor-osx-x64-Setup.pkg](https://github.com/ai-driven-projects/knowledge-extractor-releases/releases/latest/download/KnowledgeExtractor-osx-x64-Setup.pkg) | [KnowledgeExtractor-osx-x64-Portable.zip](https://github.com/ai-driven-projects/knowledge-extractor-releases/releases/latest/download/KnowledgeExtractor-osx-x64-Portable.zip) |
 
 Abra o `.pkg` e siga o instalador; o app vai para Aplicativos. O app e o instalador são assinados pela Cod3r e notarizados pela Apple: abrem sem aviso.
 
